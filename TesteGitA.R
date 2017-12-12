@@ -2,3 +2,4 @@
 ###Lucas Menezes###
 
 1 + 1
+"e igual a dois"
